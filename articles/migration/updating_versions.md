@@ -84,7 +84,7 @@ If prompted to close Visual Studio to finish the update, do so now to continue i
 Developers using the dotnet CLI with environments such as Visual Studio Code, JetBrains Rider, or other editors, can execute the following command in a command prompt/terminal to update the templates
 
 ```sh
-dotnet new install MonoGame.Templates.CSharp
+dotnet new --install MonoGame.Templates.CSharp
 ```
 
 > [!TIP]

@@ -24,7 +24,7 @@ You can download and install Rider from: [https://www.jetbrains.com/rider/downlo
 1. Run the following command to install templates:
 
     ```sh
-    dotnet new install MonoGame.Templates.CSharp
+    dotnet new --install MonoGame.Templates.CSharp
     ```
 
 ## Creating a new MonoGame project
