@@ -46,7 +46,7 @@ By the end, you will be fully equipped to start creating games with MonoGame usi
 1. Run the following command to install MonoGame Templates
 
     ```sh
-    dotnet new install MonoGame.Templates.CSharp
+    dotnet new --install MonoGame.Templates.CSharp
     ```
 
 ## Install Visual Studio Code C# Extensions
